@@ -1,0 +1,12 @@
+﻿<controls>
+  <scheme name="main">
+    <action name="Select">
+      <key value="A"/>
+      <button value="0"/> 
+    </action>
+    <action name="Alternate">
+      <key value=""/>
+      <button value="1"/>
+    </action>
+  </scheme>
+</controls>
